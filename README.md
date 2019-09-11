@@ -10,6 +10,8 @@
 - 标识页码的lastpage包
 - 标识网页的url包
 
-# 现在需要测试的是
-## figure环境
+## 现在需要测试的是
+### figure环境
 包括pgfplots画图
+
+## 试试matlab2tikz？
